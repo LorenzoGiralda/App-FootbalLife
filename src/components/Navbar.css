@@ -1,0 +1,7 @@
+.navbar-nav .nav-link.active{
+color: #F9D202; 
+}
+
+.nav-link:hover, .nav-link:focus{
+color: #F9D202;
+}

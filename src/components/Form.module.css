@@ -1,0 +1,43 @@
+.TitleSCard{
+    font-family: komu-a, sans-serif;
+    font-size: 40px;     
+    }
+    
+    
+    .resLabel{
+    font-size: 20px;    
+    }
+    
+    
+    .resImg{
+    width: 30px;    
+    }
+    
+    .resImg1{
+        width: 23px;    
+        }
+    
+    .boxIcon{
+    width: 30px;    
+    }
+    
+    .TitleBtn{
+        font-family: komu-a, sans-serif;
+    font-size: 35px;
+    background-color: #F9D202; 
+    transition: 0.5s; 
+    }
+    
+    
+    .TitleBtn:hover{
+        background-color: #000000; 
+        color: #F9D202;
+        border:1px solid  #F9D202;
+        }
+        
+        
+    .TestoLabel{
+        font-family: komu-a, sans-serif;
+    font-size: 35px; 
+    text-align: start;   
+    }

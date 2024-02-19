@@ -1,0 +1,28 @@
+
+
+.stileTitle{
+    font-family: komu-a, sans-serif;
+    font-size: 40px;
+    padding: 0px 10px;
+    padding-top: 8px;
+    background-color: #F9D202;
+    margin-bottom: 0px;
+}
+
+.BgStyle{
+background-image: url(../img/bg-erba.jpg);
+background-size: cover;    
+}
+
+
+.resizeDivTot{
+margin-top: 0px    
+}
+
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+.resizeDivTot{
+ margin-top: 131.5px    
+}
+}

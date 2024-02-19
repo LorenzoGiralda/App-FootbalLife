@@ -1,0 +1,51 @@
+.TitleSCard{
+    font-family: komu-a, sans-serif;
+    font-size: 50px;      
+    }
+    
+    
+    .resLabel{
+    font-size: 20px;    
+    }
+    
+    
+    .resImg{
+    width: 30px;    
+    }
+    
+    .resImg1{
+        width: 23px;    
+        }
+    
+    .boxIcon{
+    width: 30px;    
+    }
+
+
+    .linkSt{
+    text-decoration:  none;
+    color: black;
+    width: 100%;
+    }
+
+
+
+    .stileHoverClosed{
+        background-color: transparent;
+        width: 40px;
+        border-radius: 60px;
+        }
+        
+    
+    .stileHoverClosed:hover{
+    background-color: #F9D202;
+    }
+
+
+
+    @media (max-width: 575.98px) {
+ 
+        .stileHoverClosed{
+        width: 25px;
+        }
+    }

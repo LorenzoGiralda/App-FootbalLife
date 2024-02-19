@@ -1,0 +1,16 @@
+.ImgHover{
+transition: 0.5s;
+}
+
+.hoverLink:hover .ImgHover{
+scale: 1.2;
+}
+
+
+.hoverLink{
+transition: 0.5s;
+    }
+
+.hoverLink:hover{
+box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)   
+}

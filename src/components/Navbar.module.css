@@ -1,0 +1,135 @@
+.divLogo{
+display: flex;
+justify-content: center;    
+}
+
+.NavFont{
+    font-family: komu-a, sans-serif;
+font-size: 40px;
+width: auto;  
+}
+
+.ResImg{
+width:auto;
+transition: .15s;
+}
+
+.StileLi:hover .ResImg{
+filter: brightness(0.4);
+}
+
+.resLogo{
+max-width: 100%
+}
+
+
+.StileLi{
+width: auto;
+border: none;
+cursor: pointer   
+}
+
+.navbar{
+background-color: red;   
+}
+
+.Black{
+filter: brightness(0.4);    
+}
+
+
+.resticky{
+position: static   
+}
+
+.resticky{
+    position: static   
+    }
+
+
+.resticky1{
+position: static;
+}
+
+.resticky2{
+    position: static;
+    }
+    
+
+
+/* MEDIA QUERY */
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+
+    .resticky{
+        position: fixed;
+        top: 0;
+        width: 100%;
+        }
+
+        .restickyTop{
+        position: fixed;
+        top: 0;
+        width: 100%;  
+        }
+
+
+        .resticky1{
+        position: fixed;
+        top: 131.5px;
+        transition: 0.5s;
+        }
+
+        .resticky2{
+        position: fixed;
+        top: -537.5px;
+        transition: 0.5s;
+         }
+
+    .ResImg{
+        width:71px;
+        display: flex;
+        justify-content: center; 
+        }
+
+    .NavFont{
+    width: 100%; 
+    }
+
+    .resLogo{
+    width: 200px;
+    }
+
+    .divLogo{
+    justify-content: start;
+    padding-left: 20px;   
+    }
+    
+    .StileLi{
+    width: 100%;
+    border-bottom: 2px solid black;
+    }
+
+
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+}
+
+/* X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+
+}

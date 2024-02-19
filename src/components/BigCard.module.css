@@ -1,0 +1,91 @@
+.TitleSCard{
+    font-family: komu-a, sans-serif;
+    font-size: 40px;   
+    }
+
+
+    .TitleSCard1{
+        font-family: komu-a, sans-serif;
+        font-size: 20px;  
+        } 
+
+
+.stileTi{
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+}
+
+/* .stileSel{
+    font-family: Komu;
+    font-size: 30px;    
+}
+
+.stileSel1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;    
+} */
+
+
+.stileHoverClosed{
+    background-color: transparent;
+    width: 40px;
+    border-radius: 60px;
+    }
+    
+
+.stileHoverClosed:hover{
+background-color: #F9D202;
+}
+
+
+/* MEDIA QUERY */
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    
+    .TitleSCard1{
+        font-family: komu-a, sans-serif;
+        font-size: 20px;  
+        } 
+
+       
+    
+    
+    .stileTi1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    } 
+    
+    .stileHoverClosed{
+    width: 25px;
+    }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    .TitleSCard{
+        font-family: komu-a, sans-serif;
+        font-size: 30px;  
+        }
+    
+    
+    .stileTi{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    }  
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+}
+
+/* X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+
+}
